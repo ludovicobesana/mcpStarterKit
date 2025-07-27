@@ -1,2 +1,2 @@
-# webdriverio-mcp
-WebDriverIO MCP server
+# MCP Starter Kit
+Lorem ipsum
